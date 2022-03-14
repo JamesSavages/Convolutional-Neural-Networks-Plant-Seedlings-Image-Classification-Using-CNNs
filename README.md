@@ -28,20 +28,28 @@ recently released a dataset containing images of unique plants belonging to 12 s
 
 2. Data Pre-processing:
 
-  a. Normalization.
-  b. Gaussian Blurring.
-  c. Visualize data after pre-processing.
-  3. Make data compatible: (10 Marks)
-  a. Convert labels to one-hot-vectors.
-  b. Print the label for y_train[0].
-  c. Split the dataset into training, testing, and validation set.
-  d. Check the shape of data, Reshape data into shapes compatible with Keras models if it’s not already. If it’s
-     already in the compatible shape, then comment in the notebook that it’s already in compatible shape.
+    a. Normalization.
+
+    b. Gaussian Blurring.
+  
+    c. Visualize data after pre-processing.
+  
+3. Make data compatible: (10 Marks)
+
+    a. Convert labels to one-hot-vectors.
+
+    b. Print the label for y_train[0].
+
+    c. Split the dataset into training, testing, and validation set.
+
+    d. Check the shape of data, Reshape data into shapes compatible with Keras models if it’s not already. If it’s
+       already in the compatible shape, then comment in the notebook that it’s already in compatible shape.
      
 4. Building CNN:
 
-  a. Define layers.
-  b. Set optimizer and loss function. (Use Adam optimizer and categorical crossentropy.
+    a. Define layers.
+
+    b. Set optimizer and loss function. (Use Adam optimizer and categorical crossentropy.
   
 5. Fit and evaluate model and print confusion matrix.
 
