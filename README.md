@@ -10,12 +10,13 @@ species from a photo.
 
 ### Dataset:
 
-The dataset can be download from this repository.
-The data file names are:
 
-    images.npy
+]The data file names are:
+images.npy
+Label.csv
 
-    Label.csv
+The original files are from Kaggle. Due to the large volume of data, the images were converted to images.npy file and the labels are also put into the Labels.csv.
+Link to the Kaggle project site: https://www.kaggle.com/c/plant-seedlings-classification/data?select=train
 
 ### Steps and tasks:
 
