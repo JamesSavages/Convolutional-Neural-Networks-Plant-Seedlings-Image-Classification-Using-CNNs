@@ -51,3 +51,6 @@ Link to the Kaggle project site: https://www.kaggle.com/c/plant-seedlings-classi
 
 6. Visualize predictions for x_test[2], x_test[3], x_test[33], x_test[36], x_test[59].
 
+### Insights
+
+Using the approach of Early Stopping greatly reduced the validation losss while keeping the accuracy performance relatively consistent woth the validation data. The test loss reduced from 1.4413 to 1.0154. Further hyperparameter tuning would be recommended, to see if the performance of the model could be improved on the validation data. 
