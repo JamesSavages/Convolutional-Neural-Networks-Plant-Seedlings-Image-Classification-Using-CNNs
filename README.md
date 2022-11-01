@@ -1,4 +1,4 @@
-# Convolutional-Neural-Networks---Plant-Seedlings-Image-Classification-using-CNNs-in-Keras
+# Convolutional Neural Networks Plant-Seedlings Image-Classification-using-CNNs-in-Keras
 
 ## Project Description
 
@@ -11,7 +11,7 @@ species from a photo.
 ### Dataset:
 
 
-]The data file names are:
+The data file names are:
 images.npy
 Label.csv
 
@@ -30,7 +30,7 @@ Link to the Kaggle project site: https://www.kaggle.com/c/plant-seedlings-classi
   
     c. Visualize data after pre-processing.
   
-3. Make data compatible: (10 Marks)
+3. Make data compatible
 
     a. Convert labels to one-hot-vectors.
 
