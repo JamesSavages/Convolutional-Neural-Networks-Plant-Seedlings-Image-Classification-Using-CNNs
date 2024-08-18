@@ -1,4 +1,4 @@
-# Convolutional Neural Networks Plant-Seedlings Image-Classification-using-CNNs-in-Keras
+# Convolutional Neural Networks Plant-Seedlings Image Classification using CNNs in Keras
 
 ## Project Description
 
